@@ -1,4 +1,4 @@
-class SumOfArray{
+class sumofarray{
 	public static void main(String[] args){
 		int a[] = {12,22,33,45,23};
 		int sum = 0;
